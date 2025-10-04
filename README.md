@@ -1,5 +1,6 @@
 # nromal
 teachar work
+
 import java.util.Scanner;
 
 class Main
