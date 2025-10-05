@@ -51,7 +51,6 @@ class All
 		int sum=n+add(n-1);
 		return sum;
 	}
-
 	public static int fact(int n)
 	{
 		if(n==0 ||n==1)
@@ -61,7 +60,6 @@ class All
 		int pro=n*fact(n-1);
 		return pro;
 	}
-
 	public static void perfect(int n)
 	{
 		int sum=0;
@@ -80,7 +78,6 @@ class All
 			System.out.println(" no perfect number: "+n);
 		}
 	}
-
 	public static void strong(int n)
 	{
 		int sum=0,g=n;
