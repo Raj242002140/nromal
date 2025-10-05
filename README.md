@@ -14,8 +14,6 @@ class Main
 
 		All od=new All();
         int no;
-        // do
-        // {
         System.out.print("Enter no: ");
         no=in.nextInt();
         if(no==1)
@@ -37,9 +35,10 @@ class Main
 		All.strong(number);
         }
     }
-    // while(no<5);
-    // }
 	}
+
+
+	
 class All
 {
 	public static int add(int n)
