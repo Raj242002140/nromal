@@ -42,6 +42,8 @@ class Main
 
 class All
 {
+
+
 	public static int add(int n)
 	{
 		if(n==0)
