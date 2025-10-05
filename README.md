@@ -11,7 +11,6 @@ class Main
 		int number;
 		System.out.print("Enter number: ");
 		number=in.nextInt();
-
 		All od=new All();
         int no;
         System.out.print("Enter no: ");
