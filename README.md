@@ -78,6 +78,9 @@ class All
 			System.out.println(" no perfect number: "+n);
 		}
 	}
+
+
+	
 	public static void strong(int n)
 	{
 		int sum=0,g=n;
